@@ -7,8 +7,11 @@ Goal:
 Expose a simple Salesforce Apex REST API that:
 
   📤 Accepts POST requests to create a Contact
+  
   📥 Accepts GET requests to retrieve Contacts
+  
   🧪 Shows test methods
+  
   🔐 Demonstrates basic security via named credentials or IP whitelisting
 
 Best Practices:
